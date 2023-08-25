@@ -9,4 +9,4 @@ tags:
   - Pixel art
 ---
 
-Future destination for an article on my work representing Avalon Hill's Diplomacy as a Mobius strip.
+Future destination for an article on representing Avalon Hill's Diplomacy as a Mobius strip.
