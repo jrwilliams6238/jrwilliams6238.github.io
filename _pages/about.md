@@ -18,6 +18,10 @@ AI-CARING
 (_Jan. 2021 - Sep. 2021_)  
 Led the analysis of “Aware Homes,” studying dozens of patients through hundreds of sensors in their own houses
 
+| ![med_visualization](/assets/images/med_graphic.png)| 
+|:--:| 
+| *Visualization of errant readings from faulty medication tracker* |
+
 **SURF Intern, Data Science Intern**  
 Cincinnati Children’s Hospital Medical Center  
 (_Summer 2020_)  
@@ -30,11 +34,19 @@ A recommender system where users add/subtract/average books and movies to receiv
 **3D Printed Logic Gates**  
 A 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using **C++**, and modeled in **AutoCAD**
 
+| ![working half-adder](/assets/images/gear_project.jpg) |
+|:--:| 
+| *Working Half-Adder using full, split, and ratcheting gears* |
+
 **Analysis of Aware Homes**  
 Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
 
 ## Hobby Projects
 **Topological interpretations of Diplomacy**  
 Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retaining its original graph structure
+
+| ![mobius_diplomacy](/assets/images/mobius_diplomacy.png) |
+|:--:| 
+| *Pixel Art representation of the Mobius map. Note the map wraps at the edges.* |
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
