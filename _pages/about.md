@@ -47,6 +47,6 @@ Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retai
 
 | ![mobius_diplomacy](/assets/images/mobius_diplomacy.png) |
 |:--:| 
-| *Pixel Art representation of the Mobius map. Note the map wraps at the edges.* |
+| *Pixel Art representation of the map, wrapping at the edges* |
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
