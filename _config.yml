@@ -62,28 +62,31 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jrwilliams6238"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://"
+      url: "https://www.linkedin.com/in/jacobwilliams314/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://www.youtube.com/channel/UCCqiPmHxKK3HidISUQCmsJg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/j.r.willi?igshid=OGQ5ZDc2ODk2ZA=="
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jrwilliams6238"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jacobwilliams314/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://www.youtube.com/channel/UCCqiPmHxKK3HidISUQCmsJg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/j.r.willi?igshid=OGQ5ZDc2ODk2ZA=="
 
 defaults:
   # _posts
