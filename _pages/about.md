@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 ## Education			        		
 **B.S. Computer Science**  
 Georgia Institute of Technology (_Aug. 2019 - May 2023_)
