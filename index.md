@@ -12,7 +12,7 @@ excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/gear_project.jpg
+  - image_path: /assets/images/med_graphic.png
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
