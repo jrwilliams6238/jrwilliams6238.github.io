@@ -2,9 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-
-# Machine Learning Engineer  
-**Skills: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React**
+Skills: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
 
 ## Education			        		
 **B.S. Computer Science**  
