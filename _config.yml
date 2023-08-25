@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jacob R. Williams"
   avatar : "/assets/images/headshot.png"
-  bio    : "ML Engineer experienced with Healthcare Analytics and Recommender Systems"
+  bio    : "ML Engineer specialized in Recommender Systems and Healthcare Analytics"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
