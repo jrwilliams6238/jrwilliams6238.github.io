@@ -32,9 +32,8 @@ A 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using 
 
 **Analysis of Aware Homes**  
 Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
-Developed clustering methods for unsupervised activity detection, bootstrapping the training of supervised models
 
 **Topological interpretations of Diplomacy**  
-Used graph theory and topology to recreate the traditional Avalon Hill Diplomacy map as a Mobius Strip, retaining its original graph structure
+Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retaining its original graph structure
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
