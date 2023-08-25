@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/med_graphic.png
     alt: "CS Projects"
     title: "CS Projects"
-    excerpt: "My own projects, usually focusing on Machine Learning"
+    excerpt: "Usually focusing on Machine Learning"
     url: "https://jrwilliams6238.github.io/about/#cs-projects--research"
     btn_class: "btn--primary"
     btn_label: "Take me there"
@@ -23,15 +23,15 @@ feature_row:
   - image_path: /assets/images/gear_project.jpg
     alt: "About me"
     title: "About me"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: ""
     url: "https://jrwilliams6238.github.io/about/"
     btn_class: "btn--primary"
     btn_label: "Take me there"
     
-  - image_path: /assets/images/gear_project.jpg
+  - image_path: /assets/images/mobius_diplomacy.jpg
     alt: "100% free"
-    title: "Hobby Projects"
-    excerpt: "Any other fun projects I felt like sharing"
+    title: "Hobbies"
+    excerpt: "Things I felt like sharing"
     url: "https://jrwilliams6238.github.io/about/#hobby-projects"
     btn_class: "btn--primary"
     btn_label: "Take me there"      
