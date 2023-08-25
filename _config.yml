@@ -66,7 +66,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa fa-linkedin"
       url: "https://"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
