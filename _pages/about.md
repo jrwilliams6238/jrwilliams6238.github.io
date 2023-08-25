@@ -23,7 +23,7 @@ Cincinnati Children’s Hospital Medical Center
 (_Summer 2020_)  
 Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for meta-analysis at the start of the pandemic
 
-## Projects
+## CS Projects / Research
 **Recommend.US**, a Create-X Startup  
 A recommender system where users add/subtract/average books and movies to receive novel suggestions
 
@@ -33,6 +33,7 @@ A 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using 
 **Analysis of Aware Homes**  
 Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
 
+## Hobby Projects
 **Topological interpretations of Diplomacy**  
 Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retaining its original graph structure
 
