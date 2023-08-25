@@ -20,7 +20,7 @@ Led the analysis of “Aware Homes,” studying dozens of patients through hundr
 
 | ![med_visualization](/assets/images/med_graphic.png)| 
 |:--:| 
-| *Visualization of errant readings from faulty medication tracker* |
+| *Visualization of readings from faulty medication tracker* |
 
 **SURF Intern, Data Science Intern**  
 Cincinnati Children’s Hospital Medical Center  
