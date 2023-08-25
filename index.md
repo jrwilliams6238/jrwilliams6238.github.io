@@ -29,12 +29,12 @@ feature_row:
     btn_label: "Take me there"
     
   - image_path: /assets/images/mobius_diplomacy.png
-    alt: "100% free"
-    title: "Hobbies"
+    alt: "Resume"
+    title: "Resume"
     excerpt: "Things I felt like sharing"
-    url: "https://jrwilliams6238.github.io/about/#hobby-projects"
+    url: "https://jrwilliams6238.github.io/Files/ResumeJacobWilliams.pdf"
     btn_class: "btn--primary"
-    btn_label: "Take me there"      
+    btn_label: "Take me there"  
 ---
 
 {% include feature_row %}
