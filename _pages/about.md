@@ -2,7 +2,9 @@
 permalink: /about/
 title: "About me"
 ---
-I graduated with a B.S. in Computer Science and Highest Honors from the Georgia Institute of Technology, where I focused on the intersection of AI and Theoretical CS. Soon after the outbreak of COVID-19 I worked at Cincinnati Children’s Medical Center, where I developed NLP tools for the labeling of COVID-19 abstracts. As life returned to normal, I began doing freelance machine learning work for various 'Aware Home' initiatives. Here I modeled patient behavior through thousands of sensors in their own homes and created pipelines between AWS and PyTorch to bridge the gap between data creation and analysis.
+I graduated with a B.S. in Computer Science and Highest Honors from the Georgia Institute of Technology, where I focused on the intersection of AI and Theoretical CS. 
+
+Soon after the outbreak of COVID-19 I worked at Cincinnati Children’s Medical Center, where I developed NLP tools for the labeling of COVID-19 abstracts. As life returned to normal, I began doing freelance machine learning work for various 'Aware Home' initiatives. Here I modeled patient behavior through thousands of sensors in their own homes and created pipelines between AWS and PyTorch to bridge the gap between data creation and analysis.
 
 During my senior year, I spearheaded the development of a cross-media recommendation platform, breaking down text descriptions into vector representations for novel suggestions. Most recently I was honored to lead an exploratory study of sensitive data from thousands of community college students and, using PyTorch and Pandas, modeled the relationships between GPA, sentiment, gender, zip code, and other factors that could put students at risk.
 
