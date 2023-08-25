@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Take me there"
     
-  - image_path: /assets/images/mobius_diplomacy.png
+  - image_path: /assets/images/resume_thumbnail.png
     alt: "Resume"
     title: "Resume"
     excerpt: "Things I felt like sharing"
