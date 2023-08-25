@@ -34,13 +34,11 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 
 ## Projects
 **Recommend.US**, a Create-X Startup  
-[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Invented a recommender system where users add/subtract/average books and movies to receive novel suggestions
 - Scraped the text of every documented movie’s Wikipedia article, creating an embedded representation of each film
 - Rapidly prototyped minimum viable product using **Figma** and **React**. Coordinated efforts with Agile, Colab, and Git
 
 **3D Printed Logic Gates**  
-[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Invented a 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using **C++**, and modeled in **AutoCAD**
 
 | ![working half-adder](/assets/img/gear_project.jpg) |
@@ -48,7 +46,6 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 | *Working Half-Adder using full, split, and ratcheting gears* |
 
 **Analysis of Aware Homes**  
-[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
 - Developed clustering methods for unsupervised activity detection, bootstrapping the training of supervised models
 
