@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/gear_project.jpg
     alt: "About me"
     title: "About me"
-    excerpt: ""
+    excerpt: "Who am I???"
     url: "https://jrwilliams6238.github.io/about/"
     btn_class: "btn--primary"
     btn_label: "Take me there"
