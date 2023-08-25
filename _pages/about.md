@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+title: "About me"
 ---
 
 ## Education			        		
@@ -23,21 +24,10 @@ Invented a recommender system where users add/subtract/average books and movies 
 **3D Printed Logic Gates**  
 Invented a 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using **C++**, and modeled in **AutoCAD**
 
-| ![working half-adder](/assets/img/gear_project.jpg) |
-|:--:| 
-| *Working Half-Adder using full, split, and ratcheting gears* |
-
 **Analysis of Aware Homes**  
-- Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
-- Developed clustering methods for unsupervised activity detection, bootstrapping the training of supervised models
+Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
 
 **Topological interpretations of Diplomacy**  
-[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
-- Used graph theory and topology to recreate the traditional Avalon Hill Diplomacy map as a Mobius Strip, retaining its original graph structure
-
-| ![mobius_diplomacy](/assets/img/mobius_diplomacy.png) |
-|:--:| 
-| *Pixel Art representation of the Mobius map. Note the map wraps at the edges.* |
-
+Used topology to recreate the traditional Avalon Hill Diplomacy map as a Mobius Strip, retaining its original graph structure
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
