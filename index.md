@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Take me there"
     
-  - image_path: /assets/images/mobius_diplomacy.jpg
+  - image_path: /assets/images/mobius_diplomacy.png
     alt: "100% free"
     title: "Hobbies"
     excerpt: "Things I felt like sharing"
