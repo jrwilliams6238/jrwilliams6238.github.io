@@ -6,7 +6,7 @@ header:
   overlay_color: "#f7e8b0"
   overlay_image: /assets/images/attic_crop.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-excerpt: This is a test test 
+excerpt: This is a test test  
   part 2 should be new line
 
 feature_row:
