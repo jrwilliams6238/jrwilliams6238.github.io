@@ -54,7 +54,7 @@ Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retai
 |:--:| 
 | *Pixel Art representation of the map, wrapping at the edges* |
 
-**Decadent RPG**
+**Decadent RPG**  
 Currently designing _Decadent RPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
