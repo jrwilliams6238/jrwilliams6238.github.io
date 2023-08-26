@@ -12,7 +12,7 @@ excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/Medication Graphic.PNG
+  - image_path: /assets/images/med_graphic2x3.png
     alt: "CS Projects"
     title: "CS Projects"
     excerpt: "Usually focusing on Machine Learning"
@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Take me there"
     
-  - image_path: /assets/images/gear_project.jpg
+  - image_path: /assets/images/gear_project2x3.jpg
     alt: "About me"
     title: "About me"
     excerpt: "Who am I???"
@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Take me there"
     
-  - image_path: /assets/images/resume_thumbnail.PNG
+  - image_path: /assets/images/resume2x3.PNG
     alt: "Resume"
     title: "Resume"
     excerpt: "Things I felt like sharing"
