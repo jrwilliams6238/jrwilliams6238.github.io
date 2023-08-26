@@ -13,7 +13,7 @@ feature_row:
     alt: "CS Projects"
     title: "Projects / Research"
     excerpt: ""
-    url: "https://jrwilliams6238.github.io/about/#cs-projects--research"
+    url: "https://jrwilliams6238.github.io/about/#projects--research"
     btn_class: "btn--primary"
     btn_label: "Take me there"
 
