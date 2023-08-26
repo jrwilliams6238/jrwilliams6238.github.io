@@ -32,7 +32,7 @@ Cincinnati Children’s Hospital Medical Center
 (_Summer 2020_)  
 Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for meta-analysis at the start of the pandemic
 
-## CS Projects / Research
+## Projects / Research
 **Recommend.US**, a Create-X Startup  
 A recommender system where users add/subtract/average books and movies to receive novel suggestions
 
@@ -53,5 +53,8 @@ Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retai
 | ![mobius_diplomacy](/assets/images/mobius_diplomacy.png) |
 |:--:| 
 | *Pixel Art representation of the map, wrapping at the edges* |
+
+**Decadent RPG**
+Currently designing _Decadent RPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
