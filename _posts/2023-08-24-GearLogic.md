@@ -2,7 +2,7 @@
 title: "3D printed Logic Gates"
 last_modified_at:
 categories:
-  - CS Project
+  - Project
 tags:
   - Modeling
 ---
