@@ -32,7 +32,7 @@ Cincinnati Children’s Hospital Medical Center
 (_Summer 2020_)  
 Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for meta-analysis at the start of the pandemic
 
-## Projects / Research
+## Projects and Research
 **Recommend.US**, a Create-X Startup  
 A recommender system where users add/subtract/average books and movies to receive novel suggestions
 
