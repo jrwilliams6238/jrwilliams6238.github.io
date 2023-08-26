@@ -5,11 +5,8 @@ hidden: true
 header:
   overlay_color: "#f7e8b0"
   overlay_image: /assets/images/attic_crop.jpg
-excerpt: "This is a test
-
-
-
-"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+excerpt: "This is a test"
 
 feature_row:
   - image_path: /assets/images/med_graphic2x3.png
