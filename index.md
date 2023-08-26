@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#f7e8b0"
-  overlay_image: /assets/images/attic_crop.jpg
+  overlay_image: /assets/images/attic_crop_flipped.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
