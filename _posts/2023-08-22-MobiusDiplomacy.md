@@ -2,7 +2,7 @@
 title: "Topological representations of Diplomacy"
 last_modified_at:
 categories:
-  - Hobby Project
+  - Project
 tags:
   - Graph Theory
   - Topology
