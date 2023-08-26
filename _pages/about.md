@@ -52,7 +52,7 @@ Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retai
 
 | ![mobius_diplomacy](/assets/images/mobius_diplomacy.png) |
 |:--:| 
-| *Pixel Art representation of the map, wrapping at the edges* |
+| *Pixel Art representation, wrapping at the edges* |
 
 **Decadent RPG**  
 Currently designing _Decadent RPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
