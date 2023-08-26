@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#f7e8b0"
   overlay_image: /assets/images/attic_crop.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
