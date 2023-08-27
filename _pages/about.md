@@ -36,8 +36,11 @@ Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for 
 **Recommend.US**, a Create-X Startup  
 A recommender system where users add/subtract/average books and movies to receive novel suggestions
 
+**KBAI - Raven's Progressive Matrices**  
+Developed a computer vision system designed to solve all stages of the Raven's Progressive Matrices Test.
+
 **3D Printed Logic Gates**  
-A 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using **C++**, and modeled in **AutoCAD**
+A 3D-printed gear logic system. Prototyped with CircuitSim, simulated using C++, and modeled in AutoCAD
 
 | ![working half-adder](/assets/images/gear_project.jpg) |
 |:--:| 
@@ -46,15 +49,27 @@ A 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using 
 **Analysis of Aware Homes**  
 Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
 
-## Hobby Projects
+**Machine Learning Club - Parallel Auto-Encoders**  
+Independent exploratory project using TensorFlow to create models for the computer vision dataset Fashion-MNIST
+
+**Founder and mentor of FIRST Robotics team Craft Robotics**  
+Acquired $26,000 in funds from NASA and the Craft Academy. Led construction of 100+ pound robot for competition
+
+**Pneumatic Logic Gates**  
+Tasked with constructing a binary decoder using pneumatic valves, interacting with a dimpled rubber interface
+
+## Hobbies
+**Leviathan ttRPG**  
+Currently designing _Leviathan ttRPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
+
+**Alpha Sigma Phi Fraternity**, Zeta Eta Chapter  
+Twice elected Brotherhood Director and House Manager, utilizing Microsoft Excel to manage over $25,000 in funds
+
 **Topological interpretations of Diplomacy**  
 Used topology to recreate the traditional Diplomacy map as a Mobius Strip, retaining its original graph structure
 
 | ![mobius_diplomacy](/assets/images/mobius_diplomacy.png) |
 |:--:| 
 | *Pixel Art representation, wrapping at the edges* |
-
-**Decadent RPG**  
-Currently designing _Decadent RPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
 
 **Skills**: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
