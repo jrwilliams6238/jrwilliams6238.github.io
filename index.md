@@ -10,26 +10,28 @@ excerpt: Machine Learning Engineer <br /> Data Scientist <br /> GT Alum
 
 feature_row:
   - image_path: /assets/images/robot2x3.jpg
+    alt: "CS Projects"
     title: ""
+    excerpt: "Projects / Research"
     url: "https://jrwilliams6238.github.io/about/#projects-and-research"
     btn_class: "btn--primary"
-    btn_label: "Projects / Research"
+    btn_label: "Take me there"
     
   - image_path: /assets/images/resume2x3.PNG
     alt: "Resume"
-    title: ""
+    title: "Resume"
     excerpt: ""
     url: "https://jrwilliams6238.github.io/Files/ResumeJacobWilliams.pdf"
     btn_class: "btn--primary"
-    btn_label: "Resume"
+    btn_label: "Take me there"
 
   - image_path: /assets/images/performance2x3.png
     alt: "About me"
-    title: ""
+    title: "About me"
     excerpt: ""
     url: "https://jrwilliams6238.github.io/about/"
     btn_class: "btn--primary"
-    btn_label: "About me"
+    btn_label: "Take me there"
 ---
 
 {% include feature_row %}
