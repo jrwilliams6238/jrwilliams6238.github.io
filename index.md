@@ -15,7 +15,7 @@ feature_row:
     excerpt: ""
     url: "https://jrwilliams6238.github.io/about/#projects-and-research"
     btn_class: "btn--primary"
-    btn_label: "Take me there"
+    btn_label: "Projects / Research"
     
   - image_path: /assets/images/resume2x3.PNG
     alt: "Resume"
