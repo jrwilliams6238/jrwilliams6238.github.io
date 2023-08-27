@@ -10,6 +10,7 @@ excerpt: Machine Learning Engineer <br /> Data Scientist <br /> GT Alum
 
 feature_row:
   - image_path: /assets/images/robot2x3.jpg
+    title: ""
     url: "https://jrwilliams6238.github.io/about/#projects-and-research"
     btn_class: "btn--primary"
     btn_label: "Projects / Research"
