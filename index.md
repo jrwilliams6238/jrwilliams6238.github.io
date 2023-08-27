@@ -9,7 +9,7 @@ header:
 excerpt: Machine Learning Engineer <br /> Data Scientist <br /> GT Alum
 
 feature_row:
-  - image_path: /assets/images/gear_project2x3.png
+  - image_path: /assets/images/gear_project2x3.jpg
     alt: "CS Projects"
     title: "Projects / Research"
     excerpt: ""
@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Take me there"
 
-  - image_path: /assets/images/performance2x3.jpg
+  - image_path: /assets/images/performance2x3.png
     alt: "About me"
     title: "About me"
     excerpt: ""
