@@ -36,6 +36,10 @@ Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for 
 **Recommend.US**, a Create-X Startup  
 A recommender system where users add/subtract/average books and movies to receive novel suggestions
 
+| ![recommend_example](/assets/images/recommend_example.png)| 
+|:--:| 
+| *An example of averaging two movies. This actually works!* |
+
 **KBAI - Raven's Progressive Matrices**  
 Developed a computer vision system designed to solve all stages of the Raven's Progressive Matrices Test.
 
