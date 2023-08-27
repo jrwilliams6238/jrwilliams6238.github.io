@@ -16,6 +16,14 @@ feature_row:
     url: "https://jrwilliams6238.github.io/about/#projects-and-research"
     btn_class: "btn--primary"
     btn_label: "Take me there"
+    
+  - image_path: /assets/images/resume2x3.PNG
+    alt: "Resume"
+    title: "Resume"
+    excerpt: ""
+    url: "https://jrwilliams6238.github.io/Files/ResumeJacobWilliams.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Take me there"
 
   - image_path: /assets/images/performance2x3.png
     alt: "About me"
@@ -24,14 +32,6 @@ feature_row:
     url: "https://jrwilliams6238.github.io/about/"
     btn_class: "btn--primary"
     btn_label: "Take me there"
-    
-  - image_path: /assets/images/resume2x3.PNG
-    alt: "Resume"
-    title: "Resume"
-    excerpt: ""
-    url: "https://jrwilliams6238.github.io/Files/ResumeJacobWilliams.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Take me there"  
 ---
 
 {% include feature_row %}
