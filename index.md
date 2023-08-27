@@ -9,7 +9,7 @@ header:
 excerpt: Machine Learning Engineer <br /> Data Scientist <br /> GT Alum
 
 feature_row:
-  - image_path: /assets/images/gear_project2x3.jpg
+  - image_path: /assets/images/robot2x3.jpg
     alt: "CS Projects"
     title: "Projects / Research"
     excerpt: ""
