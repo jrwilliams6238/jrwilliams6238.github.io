@@ -34,7 +34,7 @@ Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for 
 
 ## Projects and Research
 **Recommend.US**, a Create-X Startup  
-A recommender system where users add/subtract/average books and movies to receive novel suggestions
+A recommender system where users add/subtract/average books and movies to receive unique suggestions
 
 | ![recommend_example](/assets/images/recommend_example.PNG)| 
 |:--:| 
