@@ -43,6 +43,9 @@ A recommender system where users add/subtract/average books and movies to receiv
 **KBAI - Raven's Progressive Matrices**  
 Developed a computer vision system designed to solve all stages of the Raven's Progressive Matrices Test.
 
+**Game AI - Distributed Intelligence in MOBAs**  
+Created a pathfinding algorithm where individual agents have no global world knowledge, but can communicate with other agents in range
+
 **3D Printed Logic Gates**  
 A 3D-printed gear logic system. Prototyped with CircuitSim, simulated using C++, and modeled in AutoCAD
 
@@ -64,7 +67,7 @@ Tasked with constructing a binary decoder using pneumatic valves, interacting wi
 
 ## Hobbies
 **Leviathan ttRPG**  
-Currently designing _Leviathan ttRPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
+Lead designer of _Leviathan ttRPG_, a ttRPG focused on large-scale diplomacy and tactical grid-based combat
 
 **Alpha Sigma Phi Fraternity**, Zeta Eta Chapter  
 Twice elected Brotherhood Director and House Manager, utilizing Microsoft Excel to manage over $25,000 in funds
