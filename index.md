@@ -21,7 +21,7 @@ feature_row:
     alt: "Resume"
     title: "Resume"
     excerpt: ""
-    url: "https://jrwilliams6238.github.io/Files/ResumeJacobWilliams.pdf"
+    url: "https://jrwilliams6238.github.io/assets/ResumeJacobWilliams.pdf"
     btn_class: "btn--primary"
     btn_label: "Take me there"
 
