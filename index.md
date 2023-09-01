@@ -6,7 +6,7 @@ header:
   overlay_color: "#f7e8b0"
   overlay_image: /assets/images/attic_crop.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-excerpt: Machine Learning Engineer <br /> Data Scientist <br /> GT Alum
+excerpt: Machine Learning Engineer <br /> Software Engineer <br /> Data Scientist <br /> GT Alum
 
 feature_row:
   - image_path: /assets/images/robot2x3.jpg
