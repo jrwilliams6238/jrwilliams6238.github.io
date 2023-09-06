@@ -33,7 +33,7 @@ Cincinnati Children’s Hospital Medical Center
 Developed tools for the **NLP** of COVID-19 abstracts, classifying articles for meta-analysis at the start of the pandemic
 
 ## Projects and Research
-**Modeling Combat Dynamics in ttRPG's**
+**Modeling Combat Dynamics in ttRPG's**  
 Modeled the influence of unit health, unit damage, and total unit count on the might of a side in combat. This model correctly measures the might added by each unit, which is counter-intuitively quadratic, rather than linear (as usually perceived by game designers).
 
 **Recommend.US**, a Create-X Startup  
